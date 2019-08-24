@@ -3,6 +3,11 @@
 (function () {
     "use strict";
 
+    
+    
+    
+    
+    
     var activation = null;
     var app = WinJS.Application;
     var nav = WinJS.Navigation;
